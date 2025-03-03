@@ -55,33 +55,6 @@ The project consists of:
 - Users earn points for trips.
 - Points can be redeemed for discount codes.
 
----
-
-## 🏗️ Installation & Setup
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/gopass-project.git
-cd gopass-project
-
-
-### 2️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Setup Database
-```bash
-python manage.py migrate
-```
-
-### 4️⃣ Run the Server
-```bash
-python manage.py runserver
-```
-🚀 Now, the application should be running at `http://localhost:8000/`
-
----
-
 ## 📊 Database Schema
 | Table Name   | Fields |
 |-------------|-----------------------------------------------------------|
@@ -124,16 +97,3 @@ This project is licensed under the **MIT License**.
 
 🚀 **Start using GoPass today and never miss a seat!**
 ```
-
-This **README.md** is well-structured for GitHub and includes:
-- Project Overview
-- Features
-- Tech Stack
-- System Architecture
-- Setup Instructions
-- Database Schema
-- API Endpoints
-- Future Enhancements
-- Contributors
-
-Let me know if you need any modifications! 🚀
