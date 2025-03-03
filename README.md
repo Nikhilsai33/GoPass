@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🚍 GoPass Project
 
 ## 📌 Overview
@@ -66,7 +62,7 @@ The project consists of:
 ```bash
 git clone https://github.com/your-username/gopass-project.git
 cd gopass-project
-```
+
 
 ### 2️⃣ Install Dependencies
 ```bash
